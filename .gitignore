@@ -1,0 +1,16 @@
+# Executables
+*.exe
+
+# Object files
+*.obj
+*.o
+
+# Debug files
+*.pdb
+*.ilk
+
+# VS Code local settings
+.vscode/
+
+# Temporary files
+tempCodeRunnerFile.cpp
