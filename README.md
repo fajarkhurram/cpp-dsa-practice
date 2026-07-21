@@ -1,36 +1,91 @@
-# 📚 C++ Data Structures & Algorithms Practice
+# 🚀 C++ Data Structures & Algorithms
 
-This repository contains my C++ implementations of Data Structures and Algorithms concepts learned through university coursework, coding practice, and personal projects.
+<div align="center">
 
-## Topics Covered
+![C++](https://img.shields.io/badge/C%2B%2B-Programming-blue?style=for-the-badge&logo=cplusplus)
+![DSA](https://img.shields.io/badge/Data%20Structures-Algorithms-success?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/Learning-Journey-orange?style=for-the-badge)
 
-- Linked Lists
-- Stacks
-- Queues
-- Binary Search Trees
-- AVL Trees
-- Graphs
-- Heaps
-- Searching Algorithms
-- Sorting Algorithms
-- Hashing
+</div>
 
-## Repository Structure
+---
 
-📁 DSA-Cpp
-📁 Graphs
-📁 BST
-📁 Heap
-📁 ClassAssignment
-📁 dsaLab
-📁 SmartHash Directory DSA-project
+## 👋 About This Repository
 
-## Language
+Welcome to my **C++ Data Structures & Algorithms** repository.
+
+This repository documents my learning journey in Data Structures and Algorithms through university coursework, coding practice, laboratory exercises, assignments, and personal projects. Every folder represents concepts that I have implemented to strengthen my programming fundamentals and problem-solving skills.
+
+---
+
+## 📚 Topics Covered
+
+- 📌 Linked Lists
+- 📌 Stacks
+- 📌 Queues
+- 📌 Binary Search Trees
+- 📌 AVL Trees
+- 📌 Heaps
+- 📌 Graphs
+- 📌 Hashing
+- 📌 Searching Algorithms
+- 📌 Sorting Algorithms
+- 📌 Practice Problems
+- 📌 University Labs & Assignments
+
+---
+
+## 📂 Repository Structure
+
+```text
+📦 cpp-dsa-practice
+│
+├── AVL-Trees
+├── Binary-Search-Trees
+├── Class-Assignments
+├── DSA-Labs
+├── Graphs
+├── Heaps
+├── Linked-Lists-Stacks-Queues
+├── Practice-Problems
+└── Smart-Hash-Directory
+```
+
+---
+
+## 💻 Tech Stack
 
 - C++
+- Object-Oriented Programming
+- Data Structures
+- Algorithms
+- Git & GitHub
 
-## Goals
+---
 
-- Strengthen problem-solving skills
-- Improve understanding of data structures
-- Build a strong coding portfolio
+## 🎯 Current Goals
+
+- Build strong problem-solving skills.
+- Master fundamental data structures.
+- Write clean and organized C++ code.
+- Continuously improve through practice.
+- Document my learning journey.
+
+---
+
+## 🚀 Upcoming Topics
+
+- Graph Algorithms
+- Dynamic Programming
+- Greedy Algorithms
+- Backtracking
+- LeetCode Solutions
+- Competitive Programming
+
+---
+
+<div align="center">
+
+### ⭐ Learning one algorithm at a time.
+
+</div>
